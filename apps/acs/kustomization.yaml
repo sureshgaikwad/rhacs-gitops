@@ -9,7 +9,6 @@ resources:
   - 2.subs.yaml
   - 3.rbac.yaml
   - 4.password.yaml
-  - 5.central.yaml
   - 6.init-bundle.yaml
   - 7.securedcluster.yaml
 
