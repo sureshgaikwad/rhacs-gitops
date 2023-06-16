@@ -6,7 +6,7 @@ metadata:
   annotations:
     argocd.argoproj.io/sync-wave: "5"
 spec:
-  clusterName: demo-cluster
+  clusterName: rosa-cluster
   auditLogs:
     collection: Auto
   admissionControl:
